@@ -1,4 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import Footer from './Footer.svelte';
+	import Navbar from './Navbar.svelte';
+</script>
 
-<p class="text-xl text-orange-300">Added Tailwind CSS</p>
+MAIN CONTENT

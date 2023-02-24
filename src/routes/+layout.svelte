@@ -1,5 +1,11 @@
 <script>
 	import '../app.css';
+	import Footer from './Footer.svelte';
+	import Navbar from './Navbar.svelte';
 </script>
 
-<slot />
+<main>
+	<Navbar />
+	<slot />
+	<Footer />
+</main>
