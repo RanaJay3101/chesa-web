@@ -11,7 +11,7 @@
 	}
 </script>
 
-<nav class="max-w-[1440px] mx-auto">
+<nav class="max-w-[1440px] mx-auto border-b-[1px]">
 	<div class="px-4">
 		<div class="flex justify-between">
 			<div class="w-full flex justify-between space-x-7">
@@ -22,14 +22,16 @@
 							alt="Logo"
 							class="h-10 w-18 mr-2"
 						/>
-						<span class="font-semibold  text-lg">IIChe Nirma</span>
+						<span class="font-semibold  text-lg">ChESA</span>
 					</span>
 				</div>
 
 				<div class="hidden md:flex items-center space-x-1">
 					<NavLink link="/" linkText="Home" />
 					<NavLink link="/about" linkText="About" />
-					<NavLink link="/event" linkText="Event" />
+					<NavLink link="/sponsers" linkText="Sponsers" />
+					<NavLink link="/team" linkText="Team" />
+					<NavLink link="/events" linkText="Event" />
 				</div>
 			</div>
 
@@ -61,7 +63,13 @@
 				<NavLink link="/about" linkText="About" />
 			</li>
 			<li class="active px-2 py-4 hover:bg-green-50 cursor-pointer">
-				<NavLink link="/event" linkText="Event" />
+				<NavLink link="/events" linkText="Event" />
+			</li>
+			<li class="active px-2 py-4 hover:bg-green-50 cursor-pointer">
+				<NavLink link="/team" linkText="Team" />
+			</li>
+			<li class="active px-2 py-4 hover:bg-green-50 cursor-pointer">
+				<NavLink link="/sponsers" linkText="Sponsers" />
 			</li>
 		</ul>
 	</div>
