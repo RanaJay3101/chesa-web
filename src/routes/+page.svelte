@@ -3,4 +3,4 @@
 	import Navbar from './Navbar.svelte';
 </script>
 
-MAIN CONTENT
+MAIN CONTENT edited
