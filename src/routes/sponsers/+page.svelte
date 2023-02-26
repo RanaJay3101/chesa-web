@@ -3,25 +3,25 @@
 
 	const sponsers = [
 		{
-			name: 'Google',
+			name: 'will be announcing ..',
 			image:
 				'https://images.unsplash.com/photo-1677126123251-f269246095f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
 			link: 'https://google.com'
 		},
 		{
-			name: 'Google',
+			name: 'will be announcing ..',
 			image:
 				'https://images.unsplash.com/photo-1677126123251-f269246095f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
 			link: 'https://google.com'
 		},
 		{
-			name: 'Google',
+			name: 'will be announcing ..',
 			image:
 				'https://images.unsplash.com/photo-1677126123251-f269246095f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
 			link: 'https://google.com'
 		},
 		{
-			name: 'Google',
+			name: 'will be announcing ..',
 			image:
 				'https://images.unsplash.com/photo-1677126123251-f269246095f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60',
 			link: 'https://google.com'
