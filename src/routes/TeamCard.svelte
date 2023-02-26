@@ -1,12 +1,12 @@
 <script>
 	export let name;
 	export let image;
-	export let linkedIn;
+	// export let linkedIn;
 	export let position;
 </script>
 
 <a
-	href="/"
+	 href="/team"
 	class="flex flex-col items-center bg-gray-50 border rounded-md shadow md:flex-row md:max-w-xl "
 >
 	<img
@@ -19,6 +19,6 @@
 			<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">{name}</h5>
 			<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{position}</p>
 		</div>
-		<div><a href={linkedIn}>Linked in</a></div>
+		<!-- <div><a href={linkedIn}>Linked in</a></div> -->
 	</div>
 </a>
