@@ -1,5 +1,5 @@
 <script>
-	import TeamCard from '../TeamCard.svelte';
+	import TeamCard from './TeamCard.svelte';
 
 	const teamMembers = [
 		{
