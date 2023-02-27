@@ -189,6 +189,15 @@
 						/>
 						<span class="font-semibold  text-lg">ChESA</span>
 					</a>
+
+					<!-- <a href="/" class="flex items-center mb-4 sm:mb-0 pl-40">
+						<img
+							src="l2.png"
+							class="h-12 mr-3"
+							alt="Logo"
+						/>
+						<span class="font-semibold  text-lg">ChESA</span>
+					</a> -->
 					
 				</div>
 				<div on:click={toggleNavbar} class="flex md:hidden">
