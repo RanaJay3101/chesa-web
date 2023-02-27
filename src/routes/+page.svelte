@@ -1,5 +1,5 @@
 <div class="max-w-5xl my-8 container px-4 mx-auto">
-	<div class="w-full bg-center bg-contain h-[38rem]" style="background-image: url('/main.png');">
+	<div class="w-[48rem] bg-center bg-contain h-[24rem]" style="background-image: url('/main.png');">
 		<div class="flex items-center justify-center w-full h-full" />
 	</div>
 
