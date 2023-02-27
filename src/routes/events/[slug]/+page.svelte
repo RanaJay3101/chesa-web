@@ -14,7 +14,7 @@
 {#if isavailable}
 	<section class="text-gray-600 body-font">
 		<div class="container mx-auto flex flex-col px-5 py-24 justify-center items-center">
-			<img class="lg:w-3/6 mb-10 object-cover object-center rounded" src={event.image} alt="hero"  />
+			<img class="lg:w-3/6 mb-10 object-cover object-center rounded" src={event.image} alt="hero" />
 			<div class="w-full md:w-2/3 flex flex-col mb-16 items-center text-center">
 				<h1 class="font-bold text-3xl mb-4 text-gray-900">{event.name}</h1>
 				<p class="mb-8 leading-relaxed">
