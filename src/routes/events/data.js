@@ -1,133 +1,116 @@
 const data = [
 	{
-		category: 'Coding',
+		category: 'Tech',
 		slug: 'c1',
-		name: 'Eloquent Expression',
+		name: 'QUIZICAL KARMA',
 		description:
-			'A unique twist to your regular extempore, this event is a unique amalgamation of Skills and will serve as a platform for Participants to show their Strategising skills along with their Verbal Prowess. Do you have what it takes to outwit your opponents and make the best of your knowledge and opportunities through the medium of Verbatim? If so, then Eloquent Expressions is for you.',
+'The event is basically related to quiz. It includes 3 rounds.  Round 1 :  Basic quiz include senior schooling knowledge, general knowledge, current affairs. Round 2 :  something interesting and a bit tougher than quiz e.g. Extempore Round 3 :  Final round',
 		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
+			'pt1.png',
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
 	},
 	{
-		category: 'Coding',
+		category: 'Tech',
 		slug: 'c2',
+		name: 'ROAD RUSH',
+		description:
+'',		image:
+			'pt2.png',
+		link: '/'
+	},
+	{
+		category: 'Tech',
+		slug: 'c3',
+		name: 'AROMATIZE',
+		description:
+		'',		image:
+			'pt3.png',
+		link: '/'
+	},
+	{
+		category: 'Tech',
+		slug: 'C4',
+		name: 'CHEMICAL SHOW',
+		description:
+		'',		image:
+'pt4.jpg',		link: '/'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C5',
+		name: 'VALORANT TOURNAMENT',
+		description:
+		'',		image:
+			'p1.jpg',
+		link: 'https://docs.google.com/forms/d/e/1FAIpQLScnDJrn_cqgSacPEixauf2bbR3yVzKmaQw2dfGZAyqExvOgag/viewform?usp=sf_link'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C6',
+		name: 'DARE TO BID',
+		description:
+		'',		image:
+			'p2.png',
+		link: '/'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C7',
+		name: 'BOX CRICKET',
+		description:
+		'',		image:
+			'p3.png',
+		link: '/'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C8',
+		name: 'EXTEMPORE',
+		description:
+		'',		image:
+			'p4.png',
+		link: 'https://forms.gle/RMLnYHAHj33gETSb7'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C9',
+		name: 'THINK SCHOOL',
+		description:
+		'',		image:
+'p5.png',		link: 'https://forms.gle/QJHqZFqGceB3iyMF9'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C10',
+		name: 'ALICE IN CHEMOLAND',
+		description:
+		'',		image:
+'p6.png',		link: '/'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C11',
+		name: 'MEME-IT-UP',
+		description:
+		'',		image:
+'p7.png',		link: '/'
+	},
+	{
+		category: 'NonTech',
+		slug: 'C12',
 		name: 'PIXILLENCE',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
+		'',		image:
+'p8.png',		link: 'https://docs.google.com/forms/d/e/1FAIpQLSepeBryr9dsjhWCJMODAUQYJoMS24Hl1G88VTb1CUSYe6hASA/viewform'
 	},
+	
 	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
+		category: 'NonTech',
+		slug: 'C13',
+		name: 'ELOQUENT EXPRESSIONS',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'Eloquent Expression',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'PIXILLENCE',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
-	},
-	{
-		category: 'Coding',
-		slug: 'codejam2',
-		name: 'will be announcing ..',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente Sapiente nobis officiis. Quod earum fugit, ea facere voluptates atque architect',
-		image:
-			'https://images.unsplash.com/photo-1677330888529-3b859572df7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60',
-		link: 'https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform'
+		'',		image:
+'p9.png',		link: '/'
 	},
 	
 ];

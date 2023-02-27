@@ -7,11 +7,11 @@
 	export let category;
 </script>
 
-<div class="lg:w-1/2 sm:w-1/2 md:p-4 my-4">
-	<div class="flex relative gap-4 min-h-[350px]">
+<div class="lg:w-1/2 sm:w-1/2 md:p-4 my-4 px-4 ">
+	<div class="flex relative gap-4 min-h-[350px] min-w-full">
 		<img
 			alt="gallery"
-			class="absolute inset-0 w-full h-full object-cover object-center"
+			class="absolute inset-0 w-60 h-80 object-cover object-center"
 			src={image}
 		/>
 		<div

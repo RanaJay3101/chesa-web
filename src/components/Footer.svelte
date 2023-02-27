@@ -2,8 +2,13 @@
 	<div class="sm:flex sm:items-center sm:justify-between">
 		<a href="/" class="flex items-center mb-4 sm:mb-0">
 			<img
+				src="l2.png"
+				class="h-12 w-18 mr-3"
+				alt="Logo"
+			/>
+			<img
 				src="l1.png"
-				class="h-10 w-18 mr-3"
+				class="h-14 w-18 mr-3"
 				alt="Logo"
 			/>
 			<span class="self-center text-2xl font-semibold whitespace-nowrap">ChESA</span>
