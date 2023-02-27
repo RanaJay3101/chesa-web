@@ -9,9 +9,7 @@
 		<div class="flex flex-col text-center w-full mb-20">
 			<h1 class="text-5xl font-black title-font mb-4 text-gray-900">Events</h1>
 			<p class="lg:w-2/3 mx-auto leading-relaxed text-base">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, laudantium sapiente!
-				Sapiente laudantium nobis officiis. Quod earum fugit, ea facere voluptates atque architecto
-				sed ad esse ab nemo, nobis nostrum.
+				Will be announcing soon .. 
 			</p>
 		</div>
 

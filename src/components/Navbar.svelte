@@ -180,12 +180,16 @@
 		<nav class="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center border-b-2">
 			<div class="flex items-center justify-between">
 				<div class="flex items-center justify-between">
-					<img
-						src="http://iichemrc.org/wp-content/themes/iichemrc/images/logo.jpg"
-						alt="Logo"
-						class="h-10 w-18 mr-2"
-					/>
-					<span class="font-semibold  text-lg">ChESA</span>
+					
+					<a href="/" class="flex items-center mb-4 sm:mb-0">
+						<img
+							src="l1.png"
+							class="h-20 w-18 mr-3"
+							alt="Logo"
+						/>
+						<span class="font-semibold  text-lg">ChESA</span>
+					</a>
+					
 				</div>
 				<div on:click={toggleNavbar} class="flex md:hidden">
 					<button
@@ -220,6 +224,7 @@
 				<NavLink link="/events" linkText="Event" />
 				<NavLink link="/team" linkText="Team" />
 				<NavLink link="/sponsers" linkText="Sponsers" />
+				<NavLink link="/ContactUs" linkText="Contact Us" />
 			</div>
 		</nav>
 	</div>
