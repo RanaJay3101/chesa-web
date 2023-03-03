@@ -2,3 +2,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	background-attachment: fixed;
+	background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
