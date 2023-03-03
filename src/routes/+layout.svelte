@@ -4,8 +4,8 @@
 	import Footer from '../components/Footer.svelte';
 </script>
 
-<main>
-	<Navbar />
+<Navbar />
+<main class="min-h-screen justify-between">
 	<slot />
-	<Footer />
 </main>
+<Footer />
