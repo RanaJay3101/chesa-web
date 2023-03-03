@@ -177,28 +177,16 @@
 
 <div>
 	<div>
-		<nav class="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center border-b-2">
+		<nav
+			class="container px-6 py-2 mx-auto md:flex md:justify-between md:items-center border-b-[1px] shadow border-gray-300"
+		>
 			<div class="flex items-center justify-between">
 				<div class="flex items-center justify-between">
-					
 					<a href="/" class="flex items-center mb-4 sm:mb-0">
-						<img
-							src="l1.png"
-							class="h-20 w-18 mr-3"
-							alt="Logo"
-						/>
-						<span class="font-semibold  text-lg">ChESA</span>
+						<img src="/l2.png" class="h-12 w-18 mr-3" alt="Logo" />
+						<img src="/l1.png" class="h-20 w-25 mr-3" alt="Logo" />
+						<span class="self-center text-2xl font-semibold whitespace-nowrap">ChESA</span>
 					</a>
-
-					<!-- <a href="/" class="flex items-center mb-4 sm:mb-0 pl-40">
-						<img
-							src="l2.png"
-							class="h-12 mr-3"
-							alt="Logo"
-						/>
-						<span class="font-semibold  text-lg">ChESA</span>
-					</a> -->
-					
 				</div>
 				<div on:click={toggleNavbar} class="flex md:hidden">
 					<button
@@ -233,7 +221,7 @@
 				<NavLink link="/events" linkText="Event" />
 				<NavLink link="/team" linkText="Team" />
 				<NavLink link="/sponsers" linkText="Sponsers" />
-				<NavLink link="/ContactUs" linkText="Contact Us" />
+				<NavLink link="/contact-us" linkText="Contact Us" />
 			</div>
 		</nav>
 	</div>
