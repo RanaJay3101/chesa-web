@@ -1,6 +1,9 @@
 <div class="max-w-5xl my-8 container px-4 mx-auto">
-	<div class="w-full bg-center bg-contain h-[38rem]" style="background-image: url('/main.png');">
-		<div class="flex items-center justify-center w-full h-full" />
+	<div
+		class=" bg-no-repeat bg-center bg-contain h-[24rem]"
+		style="background-image: url('/main.png');"
+	>
+		<div class="flex items-center justify-center " />
 	</div>
 
 	<h1 class="font-bold text-5xl text-center mt-12 pb-4">About AARAMBH</h1>

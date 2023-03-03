@@ -20,6 +20,29 @@
 				<p class="mb-8 leading-relaxed">
 					{event.description}
 				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Venue : </b>{event.venue}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Fees : </b>{event.cost}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Timing : </b>{event.time}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Prices : </b>{event.price}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>For more details click on register </b>
+				</p>
+
+				
+
 				<div class="flex w-full justify-center items-end">
 					<a
 						href={event.link}
