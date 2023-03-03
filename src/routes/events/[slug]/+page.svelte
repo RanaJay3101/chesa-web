@@ -14,12 +14,35 @@
 {#if isavailable}
 	<section class="text-gray-600 body-font">
 		<div class="container mx-auto flex flex-col px-5 py-24 justify-center items-center">
-			<img class="lg:w-3/6 mb-10 object-cover object-center rounded" src={event.image} alt="hero"  />
+			<img class="lg:w-3/6 mb-10 object-cover object-center rounded" src={event.image} alt="hero" />
 			<div class="w-full md:w-2/3 flex flex-col mb-16 items-center text-center">
 				<h1 class="font-bold text-3xl mb-4 text-gray-900">{event.name}</h1>
 				<p class="mb-8 leading-relaxed">
 					{event.description}
 				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Venue : </b>{event.venue}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Fees : </b>{event.cost}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Timing : </b>{event.time}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>Event Prices : </b>{event.price}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
+					<b>For more details click on register </b>
+				</p>
+
+				
+
 				<div class="flex w-full justify-center items-end">
 					<a
 						href={event.link}
