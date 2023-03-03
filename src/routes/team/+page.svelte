@@ -93,10 +93,10 @@
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-4 justify-items-center">
 			{#each faculties as fac}
 				<div
-					class="min-w-[500px] py-4 flex flex-col items-center justify-center border rounded-md shadow md:max-w-lg cursor-pointer hover:scale-105 transition-all"
+					class="py-4 flex flex-col items-center justify-center border rounded-md shadow md:max-w-lg cursor-pointer hover:scale-105 transition-all"
 				>
 					<img
-						class="object-cover w-full rounded-lg max-h-96  md:h-auto md:w-60"
+						class="object-cover sm:w-full rounded-lg md:max-h-96  md:h-auto md:w-60"
 						src={fac.image}
 						alt={fac.name}
 					/>
