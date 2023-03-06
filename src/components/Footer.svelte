@@ -24,6 +24,8 @@
 		</ul>
 	</div>
 	<span class="block text-sm text-gray-500 sm:text-center">
-		ChESA believes that the future belongs to those who believe in the beuty of their dreams.
+		ChESA believes that the future belongs to those who believe in the beauty of their dreams.
 	</span>
+	<br />
+	<span class="block text-sm text-gray-500 sm:text-center"> Developed by Raj Patel & Jay Rana</span>
 </footer>

@@ -21,8 +21,8 @@
 			name: 'Team'
 		},
 		{
-			link: '/sponsers',
-			name: 'Sponsers'
+			link: '/sponsors',
+			name: 'Sponsors'
 		},
 		{
 			link: '/contact-us',

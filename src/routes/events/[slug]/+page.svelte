@@ -22,6 +22,10 @@
 				</p>
 
 				<p class="mb-8 leading-relaxed">
+					<b>Event Procedure :</b>{event.Procedure}
+				</p>
+
+				<p class="mb-8 leading-relaxed">
 					<b>Event Venue : </b>{event.venue}
 				</p>
 
@@ -40,8 +44,6 @@
 				<p class="mb-8 leading-relaxed">
 					<b>For more details click on register </b>
 				</p>
-
-				
 
 				<div class="flex w-full justify-center items-end">
 					<a
