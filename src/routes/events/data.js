@@ -118,7 +118,7 @@ The competition consists of four offline rounds basis on the four cards, and it 
 
 2) Short event description-
 The quiz will be conducted in 3 rounds. The quiz will contain both tech and non-tech questions. All the 3 rounds will be mcq based and the link for the quiz will be sent on the whatsapp group after registration is completed.`,
-		image: '/P2.png',
+		image: '/P5.png',
 		venue: 'Online Google Meet & Online Quiz Platforms',
 		time: `16th March 7:00 PM to 9:00 PM
                                           17th March 7:00 PM to 9:00 PM`,
