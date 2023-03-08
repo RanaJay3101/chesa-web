@@ -67,6 +67,16 @@
 			name: 'Bhargav Patel',
 			image: '/t13.webp',
 			position: 'Sports Head'
+		},
+		{
+			name: 'Utkasrsh Thumar',
+			image: '/utkarsh.jpeg',
+			position: 'Social Media Head'
+		},
+		{
+			name: 'Harshit Barmecha',
+			image: '/harshit.jpeg',
+			position: 'Social Media Head'
 		}
 	];
 
