@@ -27,5 +27,5 @@
 		ChESA believes that the future belongs to those who believe in the beauty of their dreams.
 	</span>
 	<br />
-	<span class="block text-sm text-gray-500 sm:text-center"> Developed by Raj Patel & Jay Rana</span>
+	<span class="block text-sm text-gray-500 sm:text-center "> Developed by <a class="hover:text-orange-400"href="https://www.linkedin.com/in/raj-k-patel21/">Raj Patel</a> & <a class="hover:text-orange-400"href="https://www.linkedin.com/in/jayrana31/">Jay Rana</a></span>
 </footer>

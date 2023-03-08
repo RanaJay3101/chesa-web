@@ -10,7 +10,7 @@
                     <p class="text-gray-700 mb-4"><span class="font-medium">Email:</span> chesa@nirmauni.ac.in</p>
                     
                     <p class="text-gray-700 font-medium mb-2">President: Shrey Kaneria</p>
-                    <p class="text-gray-700 mb-2"><span class="font-medium">Email:</span> 20BCH0061@nirmauni.ac.in</p>
+                    <p class="text-gray-700 mb-2"><span class="font-medium">Email:</span> 20BCH061@nirmauni.ac.in</p>
                     <p class="text-gray-700 mb-4"><span class="font-medium">Contact Number:</span> 8866200617</p>
                     
                     <p class="text-gray-700 font-medium mb-2">Vice President: Jayvir Atodariya</p>

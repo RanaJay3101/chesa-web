@@ -11,10 +11,11 @@ So, whether you're a seasoned cricketer or a complete beginner, come and join us
 		time: `18 Hours`,
 		price: `Winning Price = Rs 10000/-
 		Runner’s up = Rs 4000/-`,
-		cost: `Registration Fees = Rs 700 /- Per Team 
+		Fees: `Registration Fees = Rs 700 /- Per Team 
 		
 	  
 		`,
+		rulebook : `https://drive.google.com/file/d/1yAz17FXcXbobR9vCk_DSf-pH2hsrrjyd/view?usp=sharing`,
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLSfhgufAqfwef5pJuwgm9zDotGPVebGP8gGR-Eb2QnhxMkdn7g/viewform '
 	},
 
@@ -34,6 +35,7 @@ So, whether you're a seasoned cricketer or a complete beginner, come and join us
 		
 	  
 		`,
+		rulebook:`https://drive.google.com/file/d/1qL6uEWlG-NrCvR9t6gy__eUuUPhUZTLS/view?usp=share_link`,
 		Procedure: `The team would be given an amount of ₹5000. This amount will be used for bidding on various commodities.
 The event comprises of 5 rounds:
 Initial four rounds will be used for buying the commodities through auction.
@@ -93,7 +95,7 @@ The competition consists of four offline rounds basis on the four cards, and it 
 		price: `Disclosed at the time of Event`,
 		Fees: `ChESA member : 50 INR
 		Non-ChESA member : 70 INR`,
-
+		rulebook:`https://drive.google.com/file/d/1Vkr8etIxMT9VVflwyG_os8Tih95RsmDt/view?usp=share_link`,
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLSd5MRPDjTmVy6XHDPg2NdLEFtNxBLC7drnmmf8Sz7AxwweBtQ/viewform?usp=sf_link'
 	},
 
@@ -104,10 +106,11 @@ The competition consists of four offline rounds basis on the four cards, and it 
 		description: `The Perfume making workshop is a hands-on experience designed to teach participants the art of creating their own harmonious and balanced fragrance. The workshop typically begins with a brief introduction to the history of perfumery, participants would then be guided through the process of choosing their base notes, middle notes, and top notes. Bottles to carry the perfume, required materials and chemicals will be provided.`,
 		image: '/P4.png',
 		venue: 'A-110 & A-111',
-		time: `2 Hours (9:00 AM to 11:00 AM on 17th March 2023)`,
+		time: `2 Hours ( 17th March 2023)`,
 		price: `Certificates & Your Perfume Bottles`,
 		Fees: `For ChESA members: Rs. 100
 		For Non-ChESA members: Rs. 150`,
+		rulebook:`https://drive.google.com/file/d/14J8zCpMkoSnzYGBCKxH_ZTVbd91DFfoK/view?usp=share_link`,
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLSfYuRQdDrRxrMf6_jbTMz4Yh4--ogtn_2tfddZ1X1JYTqK8Ig/viewform?usp=sf_link/'
 	},
 	{
@@ -127,6 +130,7 @@ The quiz will be conducted in 3 rounds. The quiz will contain both tech and non-
 		Non-ChESA member : 50 INR
 		
 		`,
+		rulebook:`https://drive.google.com/file/d/1-S5-8PtPjM6KaltOIugVbhC85AcoIFMq/view?usp=share_link`,
 		link: `https://docs.google.com/forms/d/e/1FAIpQLSefCZv-fH-oxEjBSNqPWIqtCFJMhv0BxMhp4GEtbrwph8cXBw/viewform?usp=sf_link`
 	},
 	{
@@ -147,6 +151,7 @@ So come join us for an exciting day of racing and chemical fun! Whether you're a
 		price: `Trophy to 1st winner & Certificates to all Participants`,
 		Fees: `ChESA member : 50 INR
 		Non-ChESA member : 50 INR`,
+		rulebook:`https://drive.google.com/file/d/1bDBSgHJyGJk3NC8bKDRc68sX4QfAq0xI/view?usp=share_link`,
 
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLSfAFEnL3nFh4QvIrveMWFx_66ydqpwKhPHTnT48UInHG-PV2A/viewform'
 	},
@@ -174,7 +179,7 @@ Ansh Singh – 20bch004@nirmauni.ac.in
 		Non-ChESA member : 100 INR
 		
 		`,
-
+		rulebook:`https://drive.google.com/file/d/1kcbdlGsfLT62bqNoIgi4awml6dFaNCUl/view?usp=share_link`,
 		link: 'https://forms.gle/smG6Ay93pkbDvHbj9'
 	},
 	{
@@ -193,7 +198,7 @@ Ansh Singh – 20bch004@nirmauni.ac.in
                                          3rd Price = 100/-`,
 		Fees: `ChESA member : 30 INR
 		Non-ChESA member : 40 INR`,
-
+		rulebook:`https://drive.google.com/file/d/1L4lxFhf0FgfBTdIFlEFG9EDxJTp8fYC4/view?usp=share_link`,
 		link: ' https://forms.gle/RMLnYHAHj33gETSb7'
 	},
 	{
@@ -214,6 +219,7 @@ Video making has two sections:
 		price: `2000 Total Cash Prices for Winners /-`,
 		Fees: `ChESA member : 30 INR
 		Non-ChESA member : 50 INR`,
+		rulebook:`https://drive.google.com/file/d/1ZVHd5bH5pv9sNR6A7cI_rfrcdaLLWjvz/view?usp=share_link`,
 
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLSepeBryr9dsjhWCJMODAUQYJoMS24Hl1G88VTb1CUSYe6hASA/viewform'
 	},
@@ -229,7 +235,7 @@ Video making has two sections:
 		price: `350/-`,
 		Fees: `ChESA member : 30 INR
 		Non-ChESA member : 50 INR`,
-
+		rulebook:`https://drive.google.com/file/d/1EI0mEz1dzxqYd7oJ_qhU_2pVDILqOc9l/view?usp=share_link`,
 		link: 'https://docs.google.com/forms/d/13TwXvvhojHc6Nq9NXyTF5iB9KHbbHYlUTJozRkiXGfE/edit?ts=63fc3b44'
 	},
 	{
@@ -279,7 +285,7 @@ The map pool includes all the maps:
 		price: `Winners will be awarded with Cash Prizes`,
 		Fees: `ChESA member : 100 INR
 		Non-ChESA member : 100 INR`,
-
+		rulebook:`https://drive.google.com/file/d/1JwNKHNviaZlsm3Q60-GaFLB49HlwbjAV/view?usp=share_link`,
 		link: 'https://docs.google.com/forms/d/e/1FAIpQLScnDJrn_cqgSacPEixauf2bbR3yVzKmaQw2dfGZAyqExvOgag/viewform?usp=sf_link'
 	},
 	{
@@ -293,7 +299,9 @@ The map pool includes all the maps:
 		time: ` 1:00 PM to 2:00 PM (17th March 2023).`,
 		price: `Your Fun is your Price`,
 		Fees: `ChESA member : Free of Cost
-		Non-ChESA member : Free of Cost`
+		Non-ChESA member : Free of Cost`,
+		rulebook:`https://drive.google.com/file/d/1PWiJuyaWuGDH7fRQ7I3HGr8zP8TWM4Ht/view?usp=share_link`,
+		link: `https://forms.gle/4LwwnxMS295XqEK27`
 	}
 ];
 export default data;

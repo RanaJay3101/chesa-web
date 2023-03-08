@@ -8,4 +8,25 @@
 		of ChESA hopes to bequeath a memorable experience upon all the participants and welcomes you all
 		to this two day Extravaganza!
 	</p>
+
+	
+
+	<div class="py-8">
+		<div class=" bg-yellow-100 border-t border-b border-blue-900 text-blue-900 px-4 py-3" role="alert">
+			<p class="font-bold text-center">Schedule of Aarambh - The New Beginning</p>
+			<div class="flex justify-center py-2">
+				<a
+								href="https://docs.google.com/document/d/1997ItRh0j4i7QzTf8Go4vCSuX1UZXa_G/edit?usp=share_link&ouid=113983454938743463581&rtpof=true&sd=true"
+								target="_blank"
+								rel="noreferrer"
+								class="hover:text-red-700"
+								
+							>
+								Click here to view Schedule </a
+							>
+		
+							
+			</div>
+		  </div>
+	</div>
 </div>
