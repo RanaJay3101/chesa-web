@@ -22,15 +22,11 @@
 				</p>
 
 				<p class="mb-8 leading-relaxed">
-					<b>Event Procedure :</b>{event.Procedure}
-				</p>
-
-				<p class="mb-8 leading-relaxed">
 					<b>Event Venue : </b>{event.venue}
 				</p>
 
 				<p class="mb-8 leading-relaxed">
-					<b>Event Fees : </b>{event.cost}
+					<b>Event Fees : </b>{event.Fees}
 				</p>
 
 				<p class="mb-8 leading-relaxed">
@@ -42,12 +38,25 @@
 				</p>
 
 				<p class="mb-8 leading-relaxed">
-					<b>For more details click on register </b>
+					<b>For more details open Rule book </b>
 				</p>
+
+				<div class="flex w-full justify-center  items-end py-4">
+					<a
+						href={event.rulebook}
+						target="_blank"
+						rel="noreferrer"
+						class="inline-flex  border-0 py-2 px-6  text-white bg-orange-500 focus:outline-none hover:bg-orange-600 rounded text-lg"
+					>
+						Click here to download the rule Book </a
+					>
+				</div>
 
 				<div class="flex w-full justify-center items-end">
 					<a
 						href={event.link}
+						target="_blank"
+						rel="noreferrer"
 						class="inline-flex text-white bg-orange-500 border-0 py-2 px-6 focus:outline-none hover:bg-orange-600 rounded text-lg"
 					>
 						Register</a
