@@ -216,7 +216,7 @@ Video making has two sections:
 		image: '/P9.png',
 		venue: 'A- Block',
 		time: ` You can do it during the event.`,
-		price: `2000 Total Cash Prices for Winners /-`,
+		price: `Exciting Prize-pool `,
 		Fees: `ChESA member : 30 INR
 		Non-ChESA member : 50 INR`,
 		rulebook:`https://drive.google.com/file/d/1ZVHd5bH5pv9sNR6A7cI_rfrcdaLLWjvz/view?usp=share_link`,
