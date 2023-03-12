@@ -16,7 +16,7 @@
 			<p class="font-bold text-center">Schedule of Aarambh - The New Beginning</p>
 			<div class="flex justify-center py-2">
 				<a
-								href="https://drive.google.com/file/d/1EgDu-2TWjjeHFU8QAvKAh27XLaseeheb/view?usp=share_linkR"
+								href="https://drive.google.com/file/d/1ihpGB_LWJwWg-nsK4u1m_NQz_R-yd-xf/view?usp=share_link"
 								target="_blank"
 								rel="noreferrer"
 								class="hover:text-red-700"
