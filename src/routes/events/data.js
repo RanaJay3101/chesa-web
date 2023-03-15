@@ -6,7 +6,7 @@ const data = [
 		description: `If you're looking for a fun and exciting indoor sports activity, then look no further than our Bombay style box cricket event! Our Bombay style box cricket tournament is a fast-paced and action- packed variation of the traditional sport that is sure to provide hours of entertainment for players and spectators alike. 
 So, whether you're a seasoned cricketer or a complete beginner, come and join us for our Bombay style box cricket event and experience the thrill of       this unique and exciting variation of the sport, organised by the Chemical Engineering department of Nirma University under “AARAMBH”.`,
 
-		image: '/P1.png',
+		image: '/P111.png',
 		venue: 'Dome Ground, Nirma University (Near A Block)',
 		time: `18 Hours`,
 		price: `Winning Price = Rs 10000/-
